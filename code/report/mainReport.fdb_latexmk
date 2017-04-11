@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1491937882 "mainReport.tex" "mainReport.pdf" "mainReport" 1491937889
+["pdflatex"] 1491939904 "mainReport.tex" "mainReport.pdf" "mainReport" 1491939912
   "./plots/a3-1/bellmanLoss.png" 1491937862 75446 5ddb47c226d52877fb8c4b8fddca9407 ""
   "./plots/a3-1/loss.png" 1491937862 57307 902323254df4230247817ae6e295a56c ""
   "./plots/a3-1/step.png" 1491937863 93172 7954b3607c4649a2dcc670bccbd81818 ""
@@ -123,8 +123,8 @@
   "/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1432479641 1764542 91654ba72bdb667e84ea24f076ae16d8 ""
   "/usr/local/texlive/2015/texmf-var/web2c/pdftex/pdflatex.fmt" 1463648170 3849859 6ea47d9455c0dddcea444d7932960d02 ""
   "/usr/local/texlive/2015/texmf.cnf" 1432479636 577 0d611272082f3cdb8e80e09a3c69cf07 ""
-  "mainReport.aux" 1491937889 5054 65d40f5bcfbfbddba95cbdaf426c5dff ""
-  "mainReport.tex" 1491934772 20372 8a7a10d3f2d986072cdce29b54ebde0f ""
+  "mainReport.aux" 1491939911 5054 65d40f5bcfbfbddba95cbdaf426c5dff ""
+  "mainReport.tex" 1491939904 20463 d5d814549b2a7988c77a3b26aa8d5578 ""
   "plots/a3-1/bellmanLoss.png" 1491937862 75446 5ddb47c226d52877fb8c4b8fddca9407 ""
   "plots/a3-1/loss.png" 1491937862 57307 902323254df4230247817ae6e295a56c ""
   "plots/a3-1/step.png" 1491937863 93172 7954b3607c4649a2dcc670bccbd81818 ""
@@ -164,6 +164,6 @@
   "plots/b3/Pong-v3/testScoreMean.png" 1491937877 76001 217086fcf063787b704d077b999341c9 ""
   "plots/b3/Pong-v3/trainScore.png" 1491937877 154874 428e5bab017c4d036d7a65c9f2625b12 ""
   (generated)
-  "mainReport.pdf"
   "mainReport.log"
+  "mainReport.pdf"
   "mainReport.aux"

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.19)  11 APR 2017 20:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.19)  11 APR 2017 20:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1654,4 +1654,671 @@ Missing character: There is no   in font cmr10!
 Missing character: There is no Â in font cmr10!
 Missing character: There is no   in font cmr10!
 Missing character: There is no Â in font cmr10!
-Missing character: There is no   in font c
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+ [7 <./plots/a7/test_step.png> <./plots/a7/train_step.png> <./plots/a7/bellmanL
+oss.png> <./plots/a7/loss.png>] [8 <./plots/a8/test_step.png> <./plots/a8/train
+_step.png> <./plots/a8/bellmanLoss.png> <./plots/a8/loss.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 296--297
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 314--326
+
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 330.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 330.
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+
+<plots/b3/Boxing-v3/bellmanLossArray.png, id=93, 578.16pt x 433.62pt>
+File: plots/b3/Boxing-v3/bellmanLossArray.png Graphic file (type png)
+
+<use plots/b3/Boxing-v3/bellmanLossArray.png>
+Package pdftex.def Info: plots/b3/Boxing-v3/bellmanLossArray.png used on input 
+line 345.
+(pdftex.def)             Requested size: 230.18253pt x 172.63109pt.
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+
+<plots/b3/Boxing-v3/lossArray.png, id=94, 578.16pt x 433.62pt>
+File: plots/b3/Boxing-v3/lossArray.png Graphic file (type png)
+
+<use plots/b3/Boxing-v3/lossArray.png>
+Package pdftex.def Info: plots/b3/Boxing-v3/lossArray.png used on input line 35
+1.
+(pdftex.def)             Requested size: 230.18253pt x 172.63109pt.
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+ [9]
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+
+<plots/b3/MsPacman-v3/bellmanLossArray.png, id=99, 578.16pt x 433.62pt>
+File: plots/b3/MsPacman-v3/bellmanLossArray.png Graphic file (type png)
+
+<use plots/b3/MsPacman-v3/bellmanLossArray.png>
+Package pdftex.def Info: plots/b3/MsPacman-v3/bellmanLossArray.png used on inpu
+t line 362.
+(pdftex.def)             Requested size: 230.18253pt x 172.63109pt.
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+
+<plots/b3/MsPacman-v3/lossArray.png, id=100, 578.16pt x 433.62pt>
+File: plots/b3/MsPacman-v3/lossArray.png Graphic file (type png)
+
+<use plots/b3/MsPacman-v3/lossArray.png>
+Package pdftex.def Info: plots/b3/MsPacman-v3/lossArray.png used on input line 
+368.
+(pdftex.def)             Requested size: 230.18253pt x 172.63109pt.
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+
+<plots/b3/Pong-v3/bellmanLossArray.png, id=101, 578.16pt x 433.62pt>
+File: plots/b3/Pong-v3/bellmanLossArray.png Graphic file (type png)
+
+<use plots/b3/Pong-v3/bellmanLossArray.png>
+Package pdftex.def Info: plots/b3/Pong-v3/bellmanLossArray.png used on input li
+ne 379.
+(pdftex.def)             Requested size: 230.18253pt x 172.63109pt.
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+
+<plots/b3/Pong-v3/lossArray.png, id=102, 578.16pt x 433.62pt>
+File: plots/b3/Pong-v3/lossArray.png Graphic file (type png)
+
+<use plots/b3/Pong-v3/lossArray.png>
+Package pdftex.def Info: plots/b3/Pong-v3/lossArray.png used on input line 385.
+
+(pdftex.def)             Requested size: 230.18253pt x 172.63109pt.
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+ [10 <./plots/b3/Boxing-v3/bellmanLossArray.png> <./plots/b3/Boxing-v3/lossArra
+y.png> <./plots/b3/MsPacman-v3/bellmanLossArray.png> <./plots/b3/MsPacman-v3/lo
+ssArray.png>]
+<plots/b3/Boxing-v3/testScoreMean.png, id=110, 578.16pt x 433.62pt>
+File: plots/b3/Boxing-v3/testScoreMean.png Graphic file (type png)
+
+<use plots/b3/Boxing-v3/testScoreMean.png>
+Package pdftex.def Info: plots/b3/Boxing-v3/testScoreMean.png used on input lin
+e 403.
+(pdftex.def)             Requested size: 230.18253pt x 172.63109pt.
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+
+<plots/b3/Boxing-v3/trainScore.png, id=111, 578.16pt x 433.62pt>
+File: plots/b3/Boxing-v3/trainScore.png Graphic file (type png)
+
+<use plots/b3/Boxing-v3/trainScore.png>
+Package pdftex.def Info: plots/b3/Boxing-v3/trainScore.png used on input line 4
+09.
+(pdftex.def)             Requested size: 230.18253pt x 172.63109pt.
+
+<plots/b3/MsPacman-v3/testScoreMean.png, id=112, 578.16pt x 433.62pt>
+File: plots/b3/MsPacman-v3/testScoreMean.png Graphic file (type png)
+
+<use plots/b3/MsPacman-v3/testScoreMean.png>
+Package pdftex.def Info: plots/b3/MsPacman-v3/testScoreMean.png used on input l
+ine 420.
+(pdftex.def)             Requested size: 230.18253pt x 172.63109pt.
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+
+<plots/b3/MsPacman-v3/trainScore.png, id=113, 578.16pt x 433.62pt>
+File: plots/b3/MsPacman-v3/trainScore.png Graphic file (type png)
+
+<use plots/b3/MsPacman-v3/trainScore.png>
+Package pdftex.def Info: plots/b3/MsPacman-v3/trainScore.png used on input line
+ 426.
+(pdftex.def)             Requested size: 230.18253pt x 172.63109pt.
+ [11 <./plots/b3/Pong-v3/bellmanLossArray.png> <./plots/b3/Pong-v3/lossArray.pn
+g> <./plots/b3/Boxing-v3/testScoreMean.png> <./plots/b3/Boxing-v3/trainScore.pn
+g>]
+<plots/b3/Pong-v3/testScoreMean.png, id=121, 578.16pt x 433.62pt>
+File: plots/b3/Pong-v3/testScoreMean.png Graphic file (type png)
+
+<use plots/b3/Pong-v3/testScoreMean.png>
+Package pdftex.def Info: plots/b3/Pong-v3/testScoreMean.png used on input line 
+436.
+(pdftex.def)             Requested size: 230.18253pt x 172.63109pt.
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+
+<plots/b3/Pong-v3/trainScore.png, id=122, 578.16pt x 433.62pt>
+File: plots/b3/Pong-v3/trainScore.png Graphic file (type png)
+
+<use plots/b3/Pong-v3/trainScore.png>
+Package pdftex.def Info: plots/b3/Pong-v3/trainScore.png used on input line 442
+.
+(pdftex.def)             Requested size: 230.18253pt x 172.63109pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 448--449
+
+ []
+
+[12 <./plots/b3/MsPacman-v3/testScoreMean.png> <./plots/b3/MsPacman-v3/trainSco
+re.png> <./plots/b3/Pong-v3/testScoreMean.png> <./plots/b3/Pong-v3/trainScore.p
+ng>]
+Underfull \hbox (badness 10000) in paragraph at lines 474--475
+
+ []
+
+[13] (./mainReport.aux) ) 
+Here is how much of TeX's memory you used:
+ 5348 strings out of 493089
+ 81438 string characters out of 6134842
+ 157129 words of memory out of 5000000
+ 8723 multiletter control sequences out of 15000+600000
+ 11849 words of font info for 46 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,10n,40p,775b,346s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmmi10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmr17.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmsy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmsy7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+ti10.pfb>
+Output written on mainReport.pdf (14 pages, 3401206 bytes).
+PDF statistics:
+ 167 PDF objects out of 1000 (max. 8388607)
+ 64 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 191 words of extra memory for PDF output out of 10000 (max. 10000000)
+
