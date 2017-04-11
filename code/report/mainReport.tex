@@ -335,7 +335,7 @@ This is due to the fact that while \textbf{a random policy will always randomly 
 
 \subsection*{Question 3}
 
-After initially training the model under the parameters specified in the assignment, we tried lowering the learning rate to 0.0001 as the system was not performing well for the initial parameters. Bellow are presented the results for both learning rates values. 
+After initially training the model under the parameters specified in the assignment, we tried lowering the learning rate to 0.0001 as the system was not performing well for the initial parameters. Furthermore, in order to improve the performance, we also tried increasing the preprocessed image size to \textbf{60x60}. Bellow are presented the results for all attempts made.  
 
 \subsubsection*{Boxing}
 
@@ -388,7 +388,7 @@ After initially training the model under the parameters specified in the assignm
 \end{figure}
 
 
-Overall, it seems that the \textbf{loss decreases} and \textbf{the bellman loss} gets closer to zero for a smaller learning rate of 0.0001 with the exception of \textbf{boxer} game where the loss decreases for a higher learning rate of 0.001. However, these plots differ from a supervised learening case because, as opposed to the supervised learning where the loss would correlated with wether or not the agent took the right action, in this case the loss can decrease even though the system is not learning the targeted behaviour. as it aims to accurately predict its reward and not maximize the reward.
+Overall, it seems that the \textbf{loss decreases} and \textbf{the bellman loss} gets closer to zero for a smaller learning rate of 0.0001 with the exception of \textbf{boxer} game where the loss decreases for a higher learning rate of 0.001. However, these plots differ from a supervised learning case because, as opposed to the supervised learning where the loss would correlated with whether or not the agent took the right action, in this case the loss can decrease even though the system is not learning the targeted behaviour. as it aims to accurately predict its cumulative reward and not maximize it.
 
 
 \subsection*{Question 4}
@@ -445,84 +445,32 @@ Overall, it seems that the \textbf{loss decreases} and \textbf{the bellman loss}
 \end{figure}
 
 
-here are the final cumulative discounted scores obtained for each learning rate: \\
+here are the final cumulative discounted scores (tested on the best model saved) obtained for each attempt: \\
 
 \begin{table}[H]
 \centering
 \label{b4Tab}
 \begin{tabular}{|c|c|c|c|}
 \hline
-settings & Ms Pacman & Pong & Boxer \\ \hline
-size : 28, lr : 0.0001  & 2.50 & -1.14 & -0.9262 \\ \hline
-size : 28, lr : 0.001  & 4.17 & -1.14 & -0.5761 \\ \hline
-size : 60, lr : 0.0001  & 4.17 & -1.14 & -0.5761 \\ \hline
-\textbf{random policy} & \textbf{5.03} & \textbf{-1.14} & \textbf{-0.38}  \\ \hline
+settings 				& Ms Pacman 		& Pong 				& Boxer 		  \\ \hline
+size : 28, lr : 0.0001  & 3.61 				& -1.08 			& \textbf{0.66}   \\ \hline
+size : 28, lr : 0.001  	& 4.87 				& \textbf{-0.81} 	& -0.37 		  \\ \hline
+size : 60, lr : 0.0001  & \textbf{4.944} 	& -1.14 			& 0.51	 		  \\ \hline
+\textit{random policy} 	& \textit{2.56} 	& \textit{-0.84}	& \textit{-0.24}  \\ \hline
 \end{tabular}
 
 
 \caption{final cumulative scores averaged over 100 test epsiodes and compared with the results for a random policy }
 \end{table}
 
-While the scores obtained sometimes go above a random policy score, they are never consistently increasing or above the results obtained for a random policy. This suggests that the current agents are not learning properly. 
+Overall, it seems that increasing the preprocessed image size does seem to increase performance. As it can be seen above, the optimal settings  for each games are the following : 
 
-After observing a few test episodes, We notice that the agent always behaves the same way, this would suggest that the convultional net have yet to identify proper useful features, this could be due to the image size being too small to be able to distinguish proper features, increasing the image size might be a good solution. 
+\begin{itemize}
+	\item \textbf{Ms PacMan} : size 60 and learning rate : 0.0001
+	\item \textbf{Pong} : size 28 and learning rate : 0.001
+	\item \textbf{Boxer} : size 28 and learning rate : 0.0001
+\end{itemize}
 
-This was attempted, for a \textbf{learning rate of 0.0001} and an \textbf{image size of 60x60 px}. Leading to the plots presented bellow : 
-
-
-\subsubsection*{Boxing}
-
-
-\begin{figure}[H]
-\begin{minipage}[c]{.49\linewidth}
-	\centering
-	\includegraphics[width = \linewidth]{plots/b3/Boxing-v3/testScoreMean.png}
-	\caption{test performance}
-    \end{minipage}
-    \hfill%
-\begin{minipage}[c]{.49\linewidth}
-    \centering 
-    \includegraphics[width = \linewidth]{plots/b3/Boxing-v3/trainScore.png}
-	\caption{train performance}
-\end{minipage}
-\end{figure}
-
-\subsubsection*{Ms Pacman}
-
-\begin{figure}[H]
-\begin{minipage}[c]{.49\linewidth}
-	\centering
-	\includegraphics[width = \linewidth]{plots/b3/MsPacman-v3/testScoreMean.png}
-	\caption{test performance}
-    \end{minipage}
-    \hfill%
-\begin{minipage}[c]{.49\linewidth}
-    \centering 
-    \includegraphics[width = \linewidth]{plots/b3/MsPacman-v3/trainScore.png}
-	\caption{train performance}
-\end{minipage}
-\end{figure}
-
-\subsubsection*{Pong}
-
-\begin{figure}[H]
-\begin{minipage}[c]{.49\linewidth}
-	\centering
-	\includegraphics[width = \linewidth]{plots/b3/Pong-v3/testScoreMean.png}
-	\caption{test performance}
-    \end{minipage}
-    \hfill%
-\begin{minipage}[c]{.49\linewidth}
-    \centering 
-    \includegraphics[width = \linewidth]{plots/b3/Pong-v3/trainScore.png}
-	\caption{train performance}
-\end{minipage}
-\end{figure}
-
-
-
-
-
-
+Overall, it seems that \textbf{increasing the preprocessing image size} helps with the performance, as both MsPacman and Boxer have a performance that is better than a random policy for a size of 60. However, more parameter tuning is required in order to get a proper learning curve where the cumulative reward is consistently increase and converge to a high value. \textbf{cropping useless information from the images such as the score or the number of lives} as well as trying a bigger range of learning rates might be good methods to improve the results.
 
 \end{document}
