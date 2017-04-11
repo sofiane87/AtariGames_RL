@@ -381,7 +381,7 @@ def plotQuestionB3(coupleOfParams = [(0.0001,28)]):
 
 
 
-plotQuestionB3([(0.0001,28),(0.001,28)])
+plotQuestionB3([(0.0001,28),(0.001,28),(0.0001,60)])
 
 
 # def plotQuestion6():
