@@ -263,6 +263,7 @@ def runGreedyGame(env, sess,decisionVector, game, numberOfEpisodes, stackSize, p
 	scoreMean = np.mean(cumulativeScores)
 	scoreStd = np.std(cumulativeScores)
 		
+	print('\nMean Reward : {} - Mean Episode length : {} \nSTD Reward : {} - STD Episode length : {}'.format(scoreMean,frameMean,scoreStd,frameStd))
 
 	return frameMean, frameStd, scoreMean, scoreStd
 
