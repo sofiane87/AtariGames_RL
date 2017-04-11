@@ -1,0 +1,2 @@
+model_checkpoint_path: "hiddenLayer_1000_Model_0_0.01.ckpt"
+all_model_checkpoint_paths: "hiddenLayer_1000_Model_0_0.01.ckpt"
