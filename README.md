@@ -1,12 +1,10 @@
 # Advance Topics in Machine Learning  : Assignment 3
 
 *author* : **SOFIANE MAHIOU**
-*UCL-ID* : **ucabsm1**
-*Student N°: **16100323**
 
 ## Overall presentation : 
 
-this repository aims to present the work required for Assignment 3, this Folder contains a **code/test_mode.py** script allowing you, to test all attempted models.
+this repository aims to present the work realised in an attempt to train a set of machine learnings models to play simple atari games this Folder contains a **code/test_mode.py** script allowing you, to test all attempted models.
 
 ## Package required :	
 
