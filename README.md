@@ -1,4 +1,4 @@
-# Advance Topics in Machine Learning  : Assignment 3
+# Atari Games with Reinforcement Learning
 
 *author* : **SOFIANE MAHIOU**
 
